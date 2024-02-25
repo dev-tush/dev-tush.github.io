@@ -10,8 +10,8 @@ topmenu:
 - title: Contact
   url: "contact/"
 
-- title: Get this theme  
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
+- title: Let's connect  
+  url: https://de.linkedin.com/in/tushar-yadav
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
 
@@ -27,6 +27,9 @@ footermenu:
 - title: Contact
   url: "contact/"
 
-- title: Download
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
+ - title: Imprint
+  url: "imprint/"
+
+- title: Let's connect
+  url: https://de.linkedin.com/in/tushar-yadav  
   external: true

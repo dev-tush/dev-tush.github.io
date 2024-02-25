@@ -1,5 +1,4 @@
-# Affiliates - Free Jekyll Theme
+# Personal website
 
-[Live Demo](https://wowthemesnet.github.io/affiliates-jekyll-theme/) | [Docs & Download](https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/) |  [Buy me a coffee](https://www.wowthemes.net/donate/)
+[Theme credit] (https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/)
 
-![jekyll-affiliates-theme](https://bootstrapstarter.com/assets/img/themes/affiliates-jekyll.jpg)

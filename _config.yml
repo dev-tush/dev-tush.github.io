@@ -1,6 +1,6 @@
 title: "Tushar Yadav"
 email: wowthemesnet@gmail.com
-timezone: UTC
+timezone: UTC+01:00
 baseurl: "/affiliates-jekyll-theme"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
@@ -20,7 +20,6 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: UA-113961478-1
 
 # Authors
 authors:
@@ -36,9 +35,7 @@ authors:
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  linkedin: https://de.linkedin.com/in/tushar-yadav
 
 # Plugins
 plugins: 

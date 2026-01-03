@@ -11,56 +11,23 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Tushar Yadav"
-resume_title:                   "Product Management & Go to Market"
+resume_title:                   "Contact me at"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "hello@tusharyadav.com"
+#resume_contact_email:           "hello@tusharyadav.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+#resume_contact_telephone:       "555-7334"
+#resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-display_header_contact_info:    "false"
+#resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+#display_header_contact_info:    "false"
 
 resume_header_intro: "<p>
-<br>
-👋 Hi, I’m Tushar Yadav
 
-<br>
-<br>
-
-
-👀I am the Product Manager & G2M Lead for Telekom Data Intelligence Hub in Bonn, Germany and responsible for leading the product management activities to identify, develop and deliver sovereignty driven B2B data products to setup data-driven value chains with a special focus on end-to-end easy and efficient customer experience. To unify the product experience with the global presence, I am leading the marketing efforts to establish T-Systems and Deutsche Telekom as a clear leader for dataspaces and B2B and B2B2C SaaS data products.
-
-<br>
-<br>
-
-Prior to joining T-Systems and Data Intelligence Hub, I was part of Deutsche Telekom AG and was working in the high potential Start up! Trainee program on strategic assigments in the areas of Data Analytics, XR, AR, AI (automated customer service) etc. with international and diverse teams. Before Telekom, I have been involved with Industrial Internet of Things (IIoT), Cloud and digital transformation throughout my master’s studies as well as past work engagements in due diligence, competitor analysis, and strategy consulting.
-<br>
-<br>
-
-I enjoy working in cross-cultural and international teams. I have apersonal passion in “Technology for Good” with a special interest in innovation management, data economy, data-driven ecosystems & applications(HealthTech, Sustainability etc.), digital product design and more specifically in end-to-end customer experience in complex digital ecosystems.
-<br>
-<br>
 
 📫 You can reach out to me on
-website: https://example.com
-
-
-
-links:
-  - name: LinkedIn
-    url: https://www.linkedin.com/in/tushar-yadav/
-  - name: Telekom Data Intelligence Hub
-    url: https://dih.telekom.com/en/authors/tushar-yadav
-
-
-
-Website:https://www.linkedin.com/in/tushar-yadav/
-
-
-[LinkedIn](https://www.linkedin.com/in/tushar-yadav/) or at [Telekom Data Intelligence Hub](https://dih.telekom.com/en/authors/tushar-yadav)
+LinkedIn or Telekom Data Intelligence Hub
 </p>"
 
 # use "yes" to display the email contact button,

@@ -10,11 +10,11 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Lisa M. Simpson"
-resume_title:                   "VP of Global Communications"
+resume_name:                    "Tushar Yadav"
+resume_title:                   "Product Management & Go to Market"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "hello@tusharyadav.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "555-7334"
@@ -23,36 +23,46 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>
+👋 Hi, I’m Tushar Yadav
+
+👀I am the Product Manager & G2M Lead for Telekom Data Intelligence Hub in Bonn, Germany and responsible for leading the product management activities to identify, develop and deliver sovereignty driven B2B data products to setup data-driven value chains with a special focus on end-to-end easy and efficient customer experience. To unify the product experience with the global presence, I am leading the marketing efforts to establish T-Systems and Deutsche Telekom as a clear leader for dataspaces and B2B and B2B2C SaaS data products.
+
+Prior to joining T-Systems and Data Intelligence Hub, I was part of Deutsche Telekom AG and was working in the high potential Start up! Trainee program on strategic assigments in the areas of Data Analytics, XR, AR, AI (automated customer service) etc. with international and diverse teams. Before Telekom, I have been involved with Industrial Internet of Things (IIoT), Cloud and digital transformation throughout my master’s studies as well as past work engagements in due diligence, competitor analysis, and strategy consulting.
+
+I absolutely enjoy working in cross-cultural and international teams. I have apersonal passion in “Technology for Good” with a special interest in innovation management, data economy, data-driven ecosystems & applications(HealthTech, Sustainability etc.), digital product design and more specifically in end-to-end customer experience in complex digital ecosystems.
+
+📫 You can reach out to me on LinkedIn or at hello@tusharyadav.com
+</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "yes"
+# resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
-resume_section_experience:      true
-resume_section_education:       true
-resume_section_projects:        true
-resume_section_skills:          true
-resume_section_recognition:     true
-resume_section_links:           true
-resume_section_associations:    true
+# resume_section_experience:      true
+# resume_section_education:       true
+# resume_section_projects:        true
+# resume_section_skills:          true
+# resume_section_recognition:     true
+# resume_section_links:           true
+# resume_section_associations:    true
 # resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_github_url:            "https://github.com/dev-tush"
+ # resume_twitter_url:           "http://twitter.com/jglovier"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  resume_website_url:           "https://tusharyadav.com/"
+  resume_telekomdih_url:          "https://dih.telekom.com/en/authors/tushar-yadav"
 resume_print_social_links:      true
 
 # Design settings
